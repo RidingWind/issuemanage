@@ -1,0 +1,11 @@
+/* frontend/src/components/IssueItem.css */
+.issue-item {
+  border: 1px solid #ddd;
+  padding: 1rem;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.issue-item h3 {
+  margin-top: 0;
+}
